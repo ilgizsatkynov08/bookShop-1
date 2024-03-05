@@ -1,0 +1,79 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.bag {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+
+}
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5pc;
+
+}
+.bag  h1 {
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: -1pc;
+    margin-top: 5px;
+    color: white;
+}
+
+#header {
+    background: #010049;
+    padding: 1pc 0;
+}
+.password {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 570px;
+    background: #ffffff;
+    height: 300px;
+    position: absolute;
+    top: 15pc;
+    left: 43pc;
+    z-index: 99;
+}
+.close {
+    font-size: 35px;
+    position: absolute;
+    top: 1pc;
+    right: 1pc;
+    color: black;
+}
+.login input {
+    width: 360px;
+    height: 50px;
+    padding-left: 2pc;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    border: 2px solid black;
+}
+.bg {
+  background: #d9d9d9c4;
+  width: 1905px;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+
+}
+.ib button {
+    width: 201px;
+height: 51px;
+border-radius: 5px;
+background: #010049;
+border: 3px;
+color: white;
+}

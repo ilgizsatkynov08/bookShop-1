@@ -1,0 +1,213 @@
+{
+  "product": [
+    {
+      "id": "06d2",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/e3ad/71bd/3b9c87a38370d3c9ef761c747294f3e9?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=USPWt0goNaiPlgSXidjaP7H-PtSFpiXuowd3oTS-d0-~cqJ2yh1hFP49HNqVWWZ~heBzNT1E~YlG3pWcx4N58~2rbW2C5OHz5Aqeo3yB8JxBvgoUg44-T3JoBJVU~k9Ao2MgdMElw5MdK932Rc-Ams1FaPLdqtTKpizb2f0B37eQi9LWTDce6f~F3LLs4ixFSc5twpEHu3zKO5aGwod~DAz0xeqI7TOljlRjAG9WL9gcqKyRslSFRkG7dv-FOpE1nKZAa2Gjk9Ruev3CnQ6DhkJw2eNOFNsIhdYIJbOsiVGQI2Dlc5g6BzZC5sOhmGIpkYzQVsIoTG7R-NhWmBzbVw__",
+      "type": "Жанр: Исскуство ",
+      "price": "30 $",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "a415",
+      "name": "НеТуПи",
+      "image": "https://s3-alpha-sig.figma.com/img/ee8f/d775/5c50675d6c45295bb214c3ea32d7ee3f?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UKAFG1L6PXQs2RijibBuUCt~mIhKyJdzQULxZsRrp4SQqmet6eCCLP9BWNqQE4EVSNTX5Xjgei1qxCkOOz1gcDGGoGVXCb8ucx8qLJckRbNy9cpsBoHlUIEIzEkelcMiAm3L~ZZ0D-XO1496KGZLhywqHECneH7k0obAhdrdiTY1xGI3wypPbMhqg1utCVI6xiAq~FU6D1EdteYg6qDi0etCGvIFR~uGLgotYJw7veXllqddEtElozBYQc45BpHv-HQgq5-ZXOTz9Hrq8sdnpHCnfB9XAQaEIpRwgCbT~wo0CccjRMrWp9sfYLzt4yfEJikunW7fdnL6MRDtI57ezw__",
+      "type": "Исскуство",
+      "price": "15;",
+      "description": "    Это разновидность джинсовых брюк, которые по своей форме напоминают банан. Они более широкие по бедрам и более узкие книзу. Эти штаны шьют с завышенной талией, на поясе образуются складки и такая модель отлично корректирует фигуру. На нем иногда могут присутствовать украшения виде пуговиц или заклепок."
+    },
+    {
+      "id": "61bd",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/6ee5/313c/8961b7352f409551ce009c95c75eedbf?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qlPHZRN42VDyhxrHttoTT82kZooWUgA-Zmy0pRbKgONjflpZOMVT~HP1-40TfBT6jtTKju3k-sCaGu6PXAGQsc4PCDRJtQIM0CpVrs2F~NaNLltBtBbAXzPT1QqAbwK3TMaL5mu5G~ExGOx9hse47FJqHQ5pPGgb8~I7u0uAUAqqL4SlDP9Bk1FIXv1jfubLbxOTmxkOqZiVaDlOgvwf8gTFSnY0cMgk21YFrWySo84nBFSvONnGRQqJ3vGHGaNLLabZzYHXsnQmpD-iSaiR-h19XUPsHBytExCc8cSwXKz6kJx4fKGAM0OLqdwhGGZORpjC2U921Oh7n2mhaWINLA__",
+      "type": "Исскуство",
+      "price": "12$",
+      "description": "    Это разновидность джинсовых брюк, которые по своей форме напоминают банан. Они более широкие по бедрам и более узкие книзу. Эти штаны шьют с завышенной талией, на поясе образуются складки и такая модель отлично корректирует фигуру. На нем иногда могут присутствовать украшения виде пуговиц или заклепок."
+    },
+    {
+      "id": "4713",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/6b62/53db/98a37bf21e08efc0b2987b842f1063f6?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q~gFvIX6OQEzJqAlhUZa65kEAcOd--5ch07-WR7q4gTbpVH73ssknDKcp0Oe8dSb614JC93Epn1HeCTEFzSsCX2PK-HyBE71ZQgSqb7cHGcULZDaJrNU8TuTTt9IV0mvISZX008AF01KXsWOkiFw5NGdMqt4mXQFV8lC42Eeqxhj5XJL4KmG2pj-4zY0RstqShFPxGBRgKYfVM~02nhyuzdAGCqGIYo-XtoqPAg2~yOjPYKaN91nKgn190ORcqQQrofeRHSveqT4A5msjD~tD8~oR-o-WCbDycw2FnvC19ERR3k8Mu6hqv4R9p88l85gdWncAlZ5h7VIs3Bt3elzIw__",
+      "type": "20$",
+      "price": "50$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "2d77",
+      "name": "Выбор Эдит Ева Егер New York Times Bestseller",
+      "image": "https://s3-alpha-sig.figma.com/img/bbd5/3c85/4d8a32c2a5649b1d6fc98980bf2eb7ba?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JcYzoFkIRrcJE4o9hslbyVC11A~Rsco0ndXl-yewt98fFxCJQchuF2ixroJ70axyms0mvcMG8k5ueXtbKz-QrQGuUptffwVAND~ALBbuUz8S5~2J7CZvWsZ-PNXRO5X96FVkvnlGAVyvJ9NM4ba5wJtG6ml4oh83WBNoVGsQYDzsM84gdHc63nSIuxnqDO4BIw347FjUUrJW-uP-bV-SVjF-6uqL-iyyHKr6INb0cE44s944BdWu4LB4b0uX0pZCnImsfayFP-3-dd4XBSvT2pcQnKslKrCES5zAXOl1oGjWdWwDfRZUdip23VTIlD4MDq8X2O5QKkKLEkGoPvSbag__",
+      "type": "классика",
+      "price": "12$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "88cf",
+      "name": "Мужской обувь / классика",
+      "image": "https://s3-alpha-sig.figma.com/img/ce73/7d67/81b249601bb49da819b188866056624e?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qZ34gav2IhLi44Juw4ISpQoEdiZj3gPtlaOgW-S75ol2Fe8~ZqV8~9zTZuH7Tzl0uX6WXPgsYCtPnGuMegzQ-fJfoAKtpxTByjgTyaPyHGpVXivfIX8YaWGj-A2dNi-cDvonEIu5B7BxRgYytmcFtSxpq4iXV6bFujZ0ikccbKL51NUNikj5XvPMJgYGpg5nAGOTSoX8CaQ932Ffgb7hC1WYYAoi5JqW0rU-vtVo4C62I7uK2UP6AAsG2oZH2HPbq-OnxQnR3ojsr~jEKjU1iPjwbD3MedTjbaLPisDopB3Q~sLkWs6AzxpU-Uekm2PJ62EUh7Sh~5OOFxq2PEDl1A__",
+      "type": "классика",
+      "price": "190$",
+      "description": "    Это разновидность джинсовых брюк, которые по своей форме напоминают банан. Они более широкие по бедрам и более узкие книзу. Эти штаны шьют с завышенной талией, на поясе образуются складки и такая модель отлично корректирует фигуру. На нем иногда могут присутствовать украшения виде пуговиц или заклепок."
+    },
+    {
+      "id": "2f3f",
+      "name": "Выбор Эдит Ева Егер New York Times Bestseller",
+      "image": "https://s3-alpha-sig.figma.com/img/25c3/7b42/95a7bee8bb3176aa8597b3b3b3c75955?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Jk9JmCI5oN7GXM~othC9VVohSBcWJ5FVOwCaVcxXW71awcBD4YijPiNA~EQafyNxKCncDnBRQk2uASwENprkNrdzvCJd2Uf~FYHtJNzNgGgshi~56x-dlvB8i-GRUelWC5XiDPzdJjhxUBGXIEfnstftwUabFbUD87wYheD6FWvQhqi39mX~74P73lm7fCgXxn4sRvLkuj9xPvTTxe2ICm0KIcgKz11ZrKDzhIABIQWJQt26eY~bTE2a2IjS8Derc2lNINgBwqzAyuZE5qXhEmJ-fet97n4nzXuDspe6A~3CGugdOgMxl4FY-07QQt1cqNfrRQ-X226f753ehFSQig__",
+      "type": "классика",
+      "price": "120$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "52fd",
+      "name": "Тонкое исскуство пофигизма. Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/88e5/431c/9e660fe87c2e136b6ad657d09c1003e9?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fM0B5C1jQI9JmtqGrvw7NvuIWMbPviLRPAHl9wTjr1~Iadnel~sl4RNEormRXcABt49Tonoz9QtLjNT2XM7WJKumy7icK5thxb89EXglfv0EjKf4K0XCmtFgbifbgEFYXzsrzdSES5oS~Xathgdzy~0rTLQnlkIuu4ptCgRtzP4LxlhD6DEBLJwiiAAcE9PScZ0TExQU0-skyVpCFecEBsf-UMG67UoHzcz05MaQXP4jF5A6m1pm2i1eFwN94nSygtHZxa4x3TZZcRYv32~Ll1gXLNVimui-QBSvQg~0LuyuY-59rWIxTac3DBKdYAFw7eDRQqDzeWn10q2-NCB4Qw__",
+      "type": "классика",
+      "price": "120$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "fe30",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/2c15/40dc/d3887e1f3e48f35b353e1edcf2e7165e?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dAlHlk8tDe4EPEeu5U15M-IL2nfQUlxUsnkCc2Yq1L7gcSZ2DIwGHXLfL-o4sJcWFS8LeIwyOPK95RYG3b87h9cusXnqw15aEOP40dHDq7Z-NqNScj~iR9moGWg~m-RSJvmoly-V~dF41LwNaifxXAS9n7dbK1~b9XVaKpuLtyzfUMjr4ZivbHMz~5rCbwYJQQ7jkJ76z-YP1UTi01kx6D51C8L~HzkV4GPeAhLWcJJ9SEM0NMBN~TAQoMAezRGa7uEOQeViFo2cF9lMV0kJT3IbQ7lUFRpL6SyhA2LUriCm7OIm67prmJKCJHmrNfFwlVhVOVLAoT1xrod7F57GYQ__",
+      "type": "классика",
+      "price": "120$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "1e90",
+      "name": "Тонкое исскуство пофигизма. Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/4dd8/1756/3d73842c9918080372e3a3a1d782ab78?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=h3F4QiuTz1Ja71lVEwE69yakT1AWtO14Eq5wfgY4E1npQnvBwqWDxucXRjRSXhcb46j9Wr5j-niBK0wsiqzHNjfhZoLzdnqjxvpvVEBDhEPEnacNQHB0QmP7QHkV7yLkoHT4E7YgNenS3YVEAWmioeHy-JCL6Le2FYQIeEXQjQZkqcdFH0oMZFnWwMlugQHdo3~TZDqCN~kUT5ovo6LIFePSdPMStsWb60QI-btWQYFrxQsblW0F7IQ7CoFqeHtpytCrAdyLiVvf-BYK3eQBsl5jGk2AqR~n~g15RSQJsoWAr9ORahjbtVtq43vcBg4PfZWsGeHqeJutqD8RfB8YPg__",
+      "type": "классика",
+      "price": "120$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "ebd1",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/d555/8bb6/6907db7660fa38a4d11588c0ac766a40?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XuLHBdFaAX7vy-Ae5vqwRK6eZKC270w-tY9XAQjXV7Ng60cUc2-K92~izhg-0prgLZRTNDRR5aBKi1Rc-CXJoS6yK4dZvI48Ck0NT1VXvhZIoc4UOyELgk6En4e-tlj2epP-ABRFvnFfz80CsF-SDlEFqTsVtBvMGWh0fllhoH~ebfIBQQLGjCNXGPCkOeOGlIKcMij1qBvW0u9ApetO5dNF-7bV~EtC-qWgPdfbZwRJRPhyIuVa9yKBpGoU3jb4pvoLchXhQqGu86fvfIisCguRWd7M1zkE8hJFJL0JwMrvbHi2u49-wZpEapE2lq--AN1A6ETxmZTQdN-sXkHwgw__",
+      "type": "классика",
+      "price": "12$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "7630",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/90cd/8e2b/7dc60aa50f301a733b3eae00ef525350?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YJVK3vVQ7u4mRxPHb0Iel6D~Y4rV50oDa~PCBbyqgpM7FAxLDlv0ea2tImpy3c6kPZcRf4ZvMofQOk04garsxl8sWDYgVAJdVmAhVw~v7dlQhwNOXGArPOOuuZvUZ3va8aNCP8Mzdez8Gzkse34kMH63Dryjxdkem3K1Yovkjj0uoHK~JXs3TAHW1kOMaKSd7uaI16Lg3wvdfcwfYazjQALCniUFmD1V10juZ1Eg7DqihKdsT3NfJ4UDUMNNFs-MzVqEFRwI2-80Jb3p0Xpspnh-Yba-9M5EFTulLkUHqx6Y3nxl9RBvD19Ua4IpW9Z0aEPMk975o4Et8uoyq13wcA__",
+      "type": "классика",
+      "price": "30$",
+      "description": "    Это разновидность джинсовых брюк, которые по своей форме напоминают банан. Они более широкие по бедрам и более узкие книзу. Эти штаны шьют с завышенной талией, на поясе образуются складки и такая модель отлично корректирует фигуру. На нем иногда могут присутствовать украшения виде пуговиц или заклепок."
+    },
+    {
+      "id": "c6c4",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/e3ad/71bd/3b9c87a38370d3c9ef761c747294f3e9?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=USPWt0goNaiPlgSXidjaP7H-PtSFpiXuowd3oTS-d0-~cqJ2yh1hFP49HNqVWWZ~heBzNT1E~YlG3pWcx4N58~2rbW2C5OHz5Aqeo3yB8JxBvgoUg44-T3JoBJVU~k9Ao2MgdMElw5MdK932Rc-Ams1FaPLdqtTKpizb2f0B37eQi9LWTDce6f~F3LLs4ixFSc5twpEHu3zKO5aGwod~DAz0xeqI7TOljlRjAG9WL9gcqKyRslSFRkG7dv-FOpE1nKZAa2Gjk9Ruev3CnQ6DhkJw2eNOFNsIhdYIJbOsiVGQI2Dlc5g6BzZC5sOhmGIpkYzQVsIoTG7R-NhWmBzbVw__",
+      "type": "классика",
+      "price": "12$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "ceaa",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/ee8f/d775/5c50675d6c45295bb214c3ea32d7ee3f?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UKAFG1L6PXQs2RijibBuUCt~mIhKyJdzQULxZsRrp4SQqmet6eCCLP9BWNqQE4EVSNTX5Xjgei1qxCkOOz1gcDGGoGVXCb8ucx8qLJckRbNy9cpsBoHlUIEIzEkelcMiAm3L~ZZ0D-XO1496KGZLhywqHECneH7k0obAhdrdiTY1xGI3wypPbMhqg1utCVI6xiAq~FU6D1EdteYg6qDi0etCGvIFR~uGLgotYJw7veXllqddEtElozBYQc45BpHv-HQgq5-ZXOTz9Hrq8sdnpHCnfB9XAQaEIpRwgCbT~wo0CccjRMrWp9sfYLzt4yfEJikunW7fdnL6MRDtI57ezw__",
+      "type": "120$",
+      "price": "30$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    }
+  ],
+  "basket": [
+    {
+      "id": "61bd",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/6ee5/313c/8961b7352f409551ce009c95c75eedbf?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qlPHZRN42VDyhxrHttoTT82kZooWUgA-Zmy0pRbKgONjflpZOMVT~HP1-40TfBT6jtTKju3k-sCaGu6PXAGQsc4PCDRJtQIM0CpVrs2F~NaNLltBtBbAXzPT1QqAbwK3TMaL5mu5G~ExGOx9hse47FJqHQ5pPGgb8~I7u0uAUAqqL4SlDP9Bk1FIXv1jfubLbxOTmxkOqZiVaDlOgvwf8gTFSnY0cMgk21YFrWySo84nBFSvONnGRQqJ3vGHGaNLLabZzYHXsnQmpD-iSaiR-h19XUPsHBytExCc8cSwXKz6kJx4fKGAM0OLqdwhGGZORpjC2U921Oh7n2mhaWINLA__",
+      "type": "Исскуство",
+      "price": "12$",
+      "description": "    Это разновидность джинсовых брюк, которые по своей форме напоминают банан. Они более широкие по бедрам и более узкие книзу. Эти штаны шьют с завышенной талией, на поясе образуются складки и такая модель отлично корректирует фигуру. На нем иногда могут присутствовать украшения виде пуговиц или заклепок."
+    },
+    {
+      "id": "52fd",
+      "name": "Тонкое исскуство пофигизма. Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/88e5/431c/9e660fe87c2e136b6ad657d09c1003e9?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fM0B5C1jQI9JmtqGrvw7NvuIWMbPviLRPAHl9wTjr1~Iadnel~sl4RNEormRXcABt49Tonoz9QtLjNT2XM7WJKumy7icK5thxb89EXglfv0EjKf4K0XCmtFgbifbgEFYXzsrzdSES5oS~Xathgdzy~0rTLQnlkIuu4ptCgRtzP4LxlhD6DEBLJwiiAAcE9PScZ0TExQU0-skyVpCFecEBsf-UMG67UoHzcz05MaQXP4jF5A6m1pm2i1eFwN94nSygtHZxa4x3TZZcRYv32~Ll1gXLNVimui-QBSvQg~0LuyuY-59rWIxTac3DBKdYAFw7eDRQqDzeWn10q2-NCB4Qw__",
+      "type": "классика",
+      "price": "120$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "a415",
+      "name": "НеТуПи",
+      "image": "https://s3-alpha-sig.figma.com/img/ee8f/d775/5c50675d6c45295bb214c3ea32d7ee3f?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UKAFG1L6PXQs2RijibBuUCt~mIhKyJdzQULxZsRrp4SQqmet6eCCLP9BWNqQE4EVSNTX5Xjgei1qxCkOOz1gcDGGoGVXCb8ucx8qLJckRbNy9cpsBoHlUIEIzEkelcMiAm3L~ZZ0D-XO1496KGZLhywqHECneH7k0obAhdrdiTY1xGI3wypPbMhqg1utCVI6xiAq~FU6D1EdteYg6qDi0etCGvIFR~uGLgotYJw7veXllqddEtElozBYQc45BpHv-HQgq5-ZXOTz9Hrq8sdnpHCnfB9XAQaEIpRwgCbT~wo0CccjRMrWp9sfYLzt4yfEJikunW7fdnL6MRDtI57ezw__",
+      "type": "Исскуство",
+      "price": "15;",
+      "description": "    Это разновидность джинсовых брюк, которые по своей форме напоминают банан. Они более широкие по бедрам и более узкие книзу. Эти штаны шьют с завышенной талией, на поясе образуются складки и такая модель отлично корректирует фигуру. На нем иногда могут присутствовать украшения виде пуговиц или заклепок."
+    },
+    {
+      "id": "ebd1",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/d555/8bb6/6907db7660fa38a4d11588c0ac766a40?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XuLHBdFaAX7vy-Ae5vqwRK6eZKC270w-tY9XAQjXV7Ng60cUc2-K92~izhg-0prgLZRTNDRR5aBKi1Rc-CXJoS6yK4dZvI48Ck0NT1VXvhZIoc4UOyELgk6En4e-tlj2epP-ABRFvnFfz80CsF-SDlEFqTsVtBvMGWh0fllhoH~ebfIBQQLGjCNXGPCkOeOGlIKcMij1qBvW0u9ApetO5dNF-7bV~EtC-qWgPdfbZwRJRPhyIuVa9yKBpGoU3jb4pvoLchXhQqGu86fvfIisCguRWd7M1zkE8hJFJL0JwMrvbHi2u49-wZpEapE2lq--AN1A6ETxmZTQdN-sXkHwgw__",
+      "type": "классика",
+      "price": "12$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "ec06"
+    },
+    {
+      "id": "0e3e"
+    },
+    {
+      "id": "1e90",
+      "name": "Тонкое исскуство пофигизма. Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/4dd8/1756/3d73842c9918080372e3a3a1d782ab78?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=h3F4QiuTz1Ja71lVEwE69yakT1AWtO14Eq5wfgY4E1npQnvBwqWDxucXRjRSXhcb46j9Wr5j-niBK0wsiqzHNjfhZoLzdnqjxvpvVEBDhEPEnacNQHB0QmP7QHkV7yLkoHT4E7YgNenS3YVEAWmioeHy-JCL6Le2FYQIeEXQjQZkqcdFH0oMZFnWwMlugQHdo3~TZDqCN~kUT5ovo6LIFePSdPMStsWb60QI-btWQYFrxQsblW0F7IQ7CoFqeHtpytCrAdyLiVvf-BYK3eQBsl5jGk2AqR~n~g15RSQJsoWAr9ORahjbtVtq43vcBg4PfZWsGeHqeJutqD8RfB8YPg__",
+      "type": "классика",
+      "price": "120$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "d9c5",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/bbd5/3c85/4d8a32c2a5649b1d6fc98980bf2eb7ba?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JcYzoFkIRrcJE4o9hslbyVC11A~Rsco0ndXl-yewt98fFxCJQchuF2ixroJ70axyms0mvcMG8k5ueXtbKz-QrQGuUptffwVAND~ALBbuUz8S5~2J7CZvWsZ-PNXRO5X96FVkvnlGAVyvJ9NM4ba5wJtG6ml4oh83WBNoVGsQYDzsM84gdHc63nSIuxnqDO4BIw347FjUUrJW-uP-bV-SVjF-6uqL-iyyHKr6INb0cE44s944BdWu4LB4b0uX0pZCnImsfayFP-3-dd4XBSvT2pcQnKslKrCES5zAXOl1oGjWdWwDfRZUdip23VTIlD4MDq8X2O5QKkKLEkGoPvSbag__",
+      "type": "класика",
+      "price": "120$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "7630",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/90cd/8e2b/7dc60aa50f301a733b3eae00ef525350?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YJVK3vVQ7u4mRxPHb0Iel6D~Y4rV50oDa~PCBbyqgpM7FAxLDlv0ea2tImpy3c6kPZcRf4ZvMofQOk04garsxl8sWDYgVAJdVmAhVw~v7dlQhwNOXGArPOOuuZvUZ3va8aNCP8Mzdez8Gzkse34kMH63Dryjxdkem3K1Yovkjj0uoHK~JXs3TAHW1kOMaKSd7uaI16Lg3wvdfcwfYazjQALCniUFmD1V10juZ1Eg7DqihKdsT3NfJ4UDUMNNFs-MzVqEFRwI2-80Jb3p0Xpspnh-Yba-9M5EFTulLkUHqx6Y3nxl9RBvD19Ua4IpW9Z0aEPMk975o4Et8uoyq13wcA__",
+      "type": "классика",
+      "price": "30$",
+      "description": "    Это разновидность джинсовых брюк, которые по своей форме напоминают банан. Они более широкие по бедрам и более узкие книзу. Эти штаны шьют с завышенной талией, на поясе образуются складки и такая модель отлично корректирует фигуру. На нем иногда могут присутствовать украшения виде пуговиц или заклепок."
+    },
+    {
+      "id": "2f3f",
+      "name": "Выбор Эдит Ева Егер New York Times Bestseller",
+      "image": "https://s3-alpha-sig.figma.com/img/25c3/7b42/95a7bee8bb3176aa8597b3b3b3c75955?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Jk9JmCI5oN7GXM~othC9VVohSBcWJ5FVOwCaVcxXW71awcBD4YijPiNA~EQafyNxKCncDnBRQk2uASwENprkNrdzvCJd2Uf~FYHtJNzNgGgshi~56x-dlvB8i-GRUelWC5XiDPzdJjhxUBGXIEfnstftwUabFbUD87wYheD6FWvQhqi39mX~74P73lm7fCgXxn4sRvLkuj9xPvTTxe2ICm0KIcgKz11ZrKDzhIABIQWJQt26eY~bTE2a2IjS8Derc2lNINgBwqzAyuZE5qXhEmJ-fet97n4nzXuDspe6A~3CGugdOgMxl4FY-07QQt1cqNfrRQ-X226f753ehFSQig__",
+      "type": "классика",
+      "price": "120$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "b845"
+    },
+    {
+      "id": "4924"
+    },
+    {
+      "id": "b8e6"
+    },
+    {
+      "id": "ceaa",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/ee8f/d775/5c50675d6c45295bb214c3ea32d7ee3f?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UKAFG1L6PXQs2RijibBuUCt~mIhKyJdzQULxZsRrp4SQqmet6eCCLP9BWNqQE4EVSNTX5Xjgei1qxCkOOz1gcDGGoGVXCb8ucx8qLJckRbNy9cpsBoHlUIEIzEkelcMiAm3L~ZZ0D-XO1496KGZLhywqHECneH7k0obAhdrdiTY1xGI3wypPbMhqg1utCVI6xiAq~FU6D1EdteYg6qDi0etCGvIFR~uGLgotYJw7veXllqddEtElozBYQc45BpHv-HQgq5-ZXOTz9Hrq8sdnpHCnfB9XAQaEIpRwgCbT~wo0CccjRMrWp9sfYLzt4yfEJikunW7fdnL6MRDtI57ezw__",
+      "type": "120$",
+      "price": "30$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    },
+    {
+      "id": "4713",
+      "name": "Тонкое искусство пофигизма Марк Мэнсон",
+      "image": "https://s3-alpha-sig.figma.com/img/6b62/53db/98a37bf21e08efc0b2987b842f1063f6?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q~gFvIX6OQEzJqAlhUZa65kEAcOd--5ch07-WR7q4gTbpVH73ssknDKcp0Oe8dSb614JC93Epn1HeCTEFzSsCX2PK-HyBE71ZQgSqb7cHGcULZDaJrNU8TuTTt9IV0mvISZX008AF01KXsWOkiFw5NGdMqt4mXQFV8lC42Eeqxhj5XJL4KmG2pj-4zY0RstqShFPxGBRgKYfVM~02nhyuzdAGCqGIYo-XtoqPAg2~yOjPYKaN91nKgn190ORcqQQrofeRHSveqT4A5msjD~tD8~oR-o-WCbDycw2FnvC19ERR3k8Mu6hqv4R9p88l85gdWncAlZ5h7VIs3Bt3elzIw__",
+      "type": "20$",
+      "price": "50$",
+      "description": "Футбо́лка — предмет нательной одежды для обоих полов, обычно не имеющий пуговиц[1], воротника и карманов, с короткими рукавами, закрывающий туловище, часть рук и верх бёдер, надевается через голову. Является одним из самых массовых видов одежды"
+    }
+  ]
+}

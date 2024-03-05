@@ -1,0 +1,28 @@
+
+.listProductBlock {
+    width: 250px;
+    height: 400px;
+}
+.listProductBlock img {
+    width: 250px;
+    height:310px;
+    margin-left: 1.40pc;
+}
+
+.a1 {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+#detal {
+    margin-left: 12pc;
+}
+.productList{
+    margin-top: 5pc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7pc;
+    flex-wrap: wrap;
+}

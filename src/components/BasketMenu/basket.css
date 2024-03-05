@@ -1,0 +1,10 @@
+.basket {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8pc;
+    justify-content: center;
+    margin-top: 3pc;
+
+}

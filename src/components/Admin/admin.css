@@ -1,0 +1,10 @@
+.admin-file{
+    width: 300px;
+    height: 400px;
+    background: #ffffff;
+
+}
+.admin-file input{
+background: white;
+color: white;
+}
